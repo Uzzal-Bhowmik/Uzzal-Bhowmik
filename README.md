@@ -1,6 +1,6 @@
 <p align="left">
   <img
-    src="https://i.ibb.co/dKb0tgW/team-karigor-grp-pic.jpg"
+    src="https://i.ibb.co/RQnv0Vn/team-karigor-grp-pic-transformed-cropped.jpg"
     alt="Uzzal-Bhowmik"
     style="margin-inline: auto"
   />
@@ -8,23 +8,25 @@
 
 <h2 align="left">Hi 👋, I'm Uzzal Bhowmik</h2>
 <h4 align="left">
-  🚀 Passionate React developer on a mission to create web wonders. Step inside
-  and witness the magic!
+  I am a dedicated and highly motivated junior MERN stack developer with a strong focus on React.js, always trying to contribute making web-development more accessible and creating technology that stands out. Some technoloigies I enjoy working with include React JS, Express JS, MongoDB and popular Javascript libraries.
 </h4>
 
 <br/>
 
-**SKILLS: HTML, CSS, JAVASCRIPT, REACT.JS, NODE.JS, MONGODB**
+**SKILLS: HTML5, CSS3, Javascript, React JS, Express JS, MongoDB**
 <br/>
 <br/>
+
+<h3>🙋‍ A brief introduction: </h3>
+
 
 - 🌱 I’m currently learning **React JS, Express JS, MongoDB** 
 - 👨‍💻 All of my
 projects are available at
 [https://github.com/Uzzal-Bhowmik?tab=repositories](https://github.com/Uzzal-Bhowmik?tab=repositories)
-- 💬 Ask me about **React, MERN Stack** 
+- 💬 Ask me about **React, MERN Stack, Javascript** 
 
-- 📫 How to reach me
+- 📫 How to reach me?
 **ubcreativity111@gmail.com** 
 
 - 📄 Know about my experiences
@@ -34,7 +36,7 @@ pizza as a breakfast food or code an app to settle disputes with coin flips.
 😉🍕💻**
 
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me online:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/Uzzal-Bhowmik-76973319a" target="blank"
     ><img
