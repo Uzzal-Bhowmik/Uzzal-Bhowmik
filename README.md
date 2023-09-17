@@ -2,28 +2,38 @@
   <img
     src="https://i.ibb.co/dKb0tgW/team-karigor-grp-pic.jpg"
     alt="Uzzal-Bhowmik"
-    width="auto"
-    height="auto"
     style="margin-inline: auto"
   />
 </p>
 
 <h2 align="left">Hi 👋, I'm Uzzal Bhowmik</h2>
-<h3 align="left">
+<h4 align="left">
   🚀 Passionate React developer on a mission to create web wonders. Step inside
   and witness the magic!
-</h3>
+</h4>
 
-- 🌱 I’m currently learning **React JS, Express JS, MongoDB** - 👨‍💻 All of my
+<br/>
+
+**SKILLS: HTML, CSS, JAVASCRIPT, REACT.JS, NODE.JS, MONGODB**
+<br/>
+<br/>
+
+- 🌱 I’m currently learning **React JS, Express JS, MongoDB** 
+- 👨‍💻 All of my
 projects are available at
 [https://github.com/Uzzal-Bhowmik?tab=repositories](https://github.com/Uzzal-Bhowmik?tab=repositories)
-- 💬 Ask me about **React, MERN Stack** - 📫 How to reach me
-**ubcreativity111@gmail.com** - 📄 Know about my experiences
+- 💬 Ask me about **React, MERN Stack** 
+
+- 📫 How to reach me
+**ubcreativity111@gmail.com** 
+
+- 📄 Know about my experiences
 [https://drive.google.com/drive/folders/1uA19C02_eIqpUhwxidIE3JjKJlRHOjxH?usp=sharing](https://drive.google.com/drive/folders/1uA19C02_eIqpUhwxidIE3JjKJlRHOjxH?usp=sharing)
-- ⚡ Fun fact **I love debating just as much as I love coding. I can argue for
+- ⚡ Fun fact  - **I love debating just as much as I love coding. I can argue for
 pizza as a breakfast food or code an app to settle disputes with coin flips.
 😉🍕💻**
 
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/Uzzal-Bhowmik-76973319a" target="blank"
@@ -185,6 +195,7 @@ pizza as a breakfast food or code an app to settle disputes with coin flips.
     />
   </a>
 </p>
+<br/>
 
 <p>
   <img
@@ -193,6 +204,13 @@ pizza as a breakfast food or code an app to settle disputes with coin flips.
     alt="Uzzal-Bhowmik"
   />
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <p>
   &nbsp;<img
