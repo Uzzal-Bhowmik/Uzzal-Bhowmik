@@ -2,8 +2,8 @@
   <img
     src="https://i.ibb.co/dKb0tgW/team-karigor-grp-pic.jpg"
     alt="Uzzal-Bhowmik"
-    width="75%"
-    height="400px"
+    width="auto"
+    height="auto"
     style="margin-inline: auto"
   />
 </p>
