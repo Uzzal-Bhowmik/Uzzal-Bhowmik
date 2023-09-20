@@ -1,4 +1,4 @@
-<p align="left"> 
+
   <figure>
   <img
     src="https://i.ibb.co/RQnv0Vn/team-karigor-grp-pic-transformed-cropped.jpg"
@@ -8,7 +8,7 @@
   />
   <figcaption><i>Team Karigor, NASA Space Apps Challenge 2022</i></figcaption>
   </figure>
-</p>
+
 
 <h1 align="left">Hi 👋, I'm Uzzal Bhowmik</h1>
 <h4 align="left">
