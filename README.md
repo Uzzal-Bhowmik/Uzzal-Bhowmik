@@ -1,12 +1,16 @@
-<p align="left">
+<p align="left"> 
+  <figure>
   <img
     src="https://i.ibb.co/RQnv0Vn/team-karigor-grp-pic-transformed-cropped.jpg"
-    alt="Uzzal-Bhowmik"
+    alt="Uzzal Bhowmik with Team Karigor"
+    title="Uzzal Bhowmik with Team Karigor"
     style="margin-inline: auto"
   />
+  <figcaption><i>Team Karigor, NASA Space Apps Challenge 2022</i></figcaption>
+  </figure>
 </p>
 
-<h2 align="left">Hi 👋, I'm Uzzal Bhowmik</h2>
+<h1 align="left">Hi 👋, I'm Uzzal Bhowmik</h1>
 <h4 align="left">
   I am a dedicated and highly motivated junior MERN stack developer with a strong focus on React.js, always trying to contribute making web-development more accessible and creating technology that stands out. Some technoloigies I enjoy working with include React JS, Express JS, MongoDB and popular Javascript libraries.
 </h4>
@@ -200,11 +204,14 @@ pizza as a breakfast food or code an app to settle disputes with coin flips.
 <br/>
 
 <p>
+  <figure>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Uzzal-Bhowmik&show_icons=true&locale=en&layout=compact"
     alt="Uzzal-Bhowmik"
   />
+  <figcaption>Team Karigor, NASA Space Apps Challenge 2022</figcaption>
+  </figure>
 </p>
 
 <br/>
