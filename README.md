@@ -210,7 +210,6 @@ pizza as a breakfast food or code an app to settle disputes with coin flips.
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Uzzal-Bhowmik&show_icons=true&locale=en&layout=compact"
     alt="Uzzal-Bhowmik"
   />
-  <figcaption>Team Karigor, NASA Space Apps Challenge 2022</figcaption>
   </figure>
 </p>
 
